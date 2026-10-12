@@ -11,5 +11,6 @@ services:
     volumes:
       - /c/tmp/postgres_modulith:/var/lib/postgresql/data
 
+
 volumes:
   postgres:
